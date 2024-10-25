@@ -73,14 +73,3 @@ VITE_URL=https://mern-wallet-two.onrender.com
  - add balance to our account
  - verify user after registration (ADMIN)
 
-
-### API docs
-to view api docs [click here](https://documenter.getpostman.com/view/8886902/2s93ebRVyS)
-
-### deployed version
-
-
-### video explanation
-
-live video explanation [click here]()
-
